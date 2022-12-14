@@ -1,0 +1,28 @@
+id: I1C96699B
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:18:53.408551+00:00
+last_modified: 2022-12-14 18:18:53.408555+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-08-01T15:48:47.084Z'
+  creationid: S.E.
+  eft-text-id: UT22084-080-009
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_425-The_Mahamaya_Tantra-v1
+bases:
+  '8335':
+    source_metadata: null
+    order: 1
+    base_file: 8335.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
